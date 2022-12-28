@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/vscode pj/DS_PJ/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/huf.dir/includes_CXX.rsp -g -o CMakeFiles/huf.dir/huf.cpp.obj -c \"D:/vscode pj/DS_PJ/huf.cpp\"",
+  "file": "D:/vscode pj/DS_PJ/huf.cpp"
+},
+{
+  "directory": "D:/vscode pj/DS_PJ/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/huf.dir/includes_CXX.rsp -g -o CMakeFiles/huf.dir/main.cpp.obj -c \"D:/vscode pj/DS_PJ/main.cpp\"",
+  "file": "D:/vscode pj/DS_PJ/main.cpp"
+}
+]
